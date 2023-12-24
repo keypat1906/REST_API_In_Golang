@@ -15,7 +15,7 @@ GET movies
 GET - localhost:8000/movies
 
 POST movies
-POST localhost:8000/movies/?movieid=1&moviename=sdgds
+POST localhost:8000/movies/?movieid=1&moviename=newmovie
 
 Delete movies
 DELETE localhost:8000/movies/

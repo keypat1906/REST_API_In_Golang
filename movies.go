@@ -14,7 +14,7 @@ import (
 
 const (
 	DB_USER     = "postgres"
-	DB_PASSWORD = "Winter01"
+	DB_PASSWORD = "password"
 	PORT        = "5432"
 	DB_NAME     = "postgres"
 )

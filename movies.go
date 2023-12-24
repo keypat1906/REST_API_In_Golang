@@ -183,5 +183,4 @@ func main() {
 	// serve the app
 	fmt.Println("Server at 8080")
 	log.Fatal(http.ListenAndServe(":8000", router))
-	fmt.Println("Hello World!")
 }
